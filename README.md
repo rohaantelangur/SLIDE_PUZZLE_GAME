@@ -2,4 +2,5 @@
 
 In this create a doraemon-themed slide puzzle using mouse click drag events!
 
-![slide-puzzle-preview](https://user-images.githubusercontent.com/78777681/163032087-dd7f31fc-b3bb-43ba-baee-2ebbef28dd35.png)
+![slide_puzzle](https://user-images.githubusercontent.com/94789421/187208460-8d99199f-bb16-4ddf-9bcf-c9592c2f8138.png)
+
